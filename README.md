@@ -1,16 +1,20 @@
-## Hi there 👋
+# 🙏 PHP Worshiper 🙏
 
-<!--
-**Sirayus-Kanjanoransiri/Sirayus-Kanjanoransiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, world! 🌍  
+I am a devoted **PHP Worshiper**. My life revolves around the sacred rituals of `<?php ?>` and the divine art of crafting code that lives and breathes on the server-side. ⚡  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+- 💻 Language of Choice: **PHP**  
+- 🔮 Believer in: Clean code, DRY principles, and the magic of `composer install`  
+- 📜 Motto: *"In PHP we trust, and our scripts shall never die."*  
+- ⚡ Powers: Turning coffee ☕ into web applications 🌐  
+
+---
+
+## My Dev Rituals
+1. Pray to the **PHP gods** before `echo`ing anything. 🙏  
+2. Offer **arrays and functions** as sacrifices to the mighty compiler. 🛐  
+3. Commune with `var_dump()` to see the truth. 🔍  
+4. Spread the gospel of **MVC** everywhere I go. 📖  
