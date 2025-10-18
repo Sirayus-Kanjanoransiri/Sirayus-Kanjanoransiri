@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi there, I'm Sirayus Kanjanoransiri 👋
 
-<!--
-**Sirayus-Kanjanoransiri/Sirayus-Kanjanoransiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm a passionate developer interested in creating innovative solutions and learning new technologies. Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Current Focus
+
+- Building and contributing to open-source projects
+- Learning and exploring new technologies
+- Developing practical solutions to real-world problems
+
+## 🌱 Skills & Technologies
+
+- Programming Languages: Python, JavaScript, Java, C++
+- Web Development: HTML, CSS, React, Node.js
+- Tools & Platforms: Git, Docker, Linux
+- Databases: MySQL, MongoDB, PostgreSQL
+
+## 📫 How to Reach Me
+
+- GitHub: [@Sirayus-Kanjanoransiri](https://github.com/Sirayus-Kanjanoransiri)
+- Email: Feel free to reach out through GitHub
+
+## 📊 GitHub Stats
+
+![Sirayus's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sirayus-Kanjanoransiri&show_icons=true&theme=default)
+
+## 🤝 Let's Connect!
+
+I'm always open to collaborating on interesting projects and connecting with fellow developers. Feel free to explore my repositories and reach out if you'd like to work together!
+
+---
+
+⭐️ From [Sirayus-Kanjanoransiri](https://github.com/Sirayus-Kanjanoransiri)
