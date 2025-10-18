@@ -20,7 +20,7 @@ I'm a passionate developer interested in creating innovative solutions and learn
 ## 📫 How to Reach Me
 
 - GitHub: [@Sirayus-Kanjanoransiri](https://github.com/Sirayus-Kanjanoransiri)
-- Email: Feel free to reach out through GitHub
+- Feel free to reach out through GitHub issues or discussions!
 
 ## 📊 GitHub Stats
 
