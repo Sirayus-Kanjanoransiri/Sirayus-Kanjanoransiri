@@ -14,7 +14,7 @@ I am a devoted **PHP Worshiper**. My life revolves around the sacred rituals of 
 ---
 
 ## My Dev Rituals
-1. Pray to the **PHP gods** before `echo`ing anything. 🙏  
+1. Pray to the **PHP gods** before `echo` anything. 🙏  
 2. Offer **arrays and functions** as sacrifices to the mighty compiler. 🛐  
 3. Commune with `var_dump()` to see the truth. 🔍  
 4. Spread the gospel of **MVC** everywhere I go. 📖  
