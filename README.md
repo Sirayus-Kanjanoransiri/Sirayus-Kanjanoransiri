@@ -4,8 +4,8 @@
 
 I am a Computer Science graduate passionate about building clean, responsive, and reliable full-stack web applications. I enjoy solving practical problems through code—from designing relational databases and RESTful APIs to containerizing applications for smooth deployment.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sirayus_Kanjanaoransiri-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sirayus-kanjanaoransiri-15827b30a/)
-[![Email](https://img.shields.io/badge/Email-sirayus.jok%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sirayus.jok@gmail.com)
+[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/sirayus-kanjanaoransiri-15827b30a/)
+[![Gmail](https://shields.io)](mailto:sirayus.jok@gmail.com)
 
 ---
 
